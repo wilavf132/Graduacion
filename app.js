@@ -17,7 +17,7 @@ const EVENTO = {
    ========================================== */
 
 const INVITADOS = {
-    carlos: "Carlos Martínez",
+    andres: "Andres Vásquez y Familia",
     maria: "María López",
     juan: "Juan Pérez",
     familia: "Familia Hernández"
