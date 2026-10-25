@@ -20,7 +20,7 @@ const INVITADOS = {
     william_flores: "William Flores y Familia",
     carmen_flores: "Carmen Flores y Mirna Flores",
     sofia_vasquez: "Sofía Vásquez y Familia",
-    indrig_vasquez: "Indrig Vásquez y Familia",
+    ingrid_vasquez: "Ingrid Vásquez y Familia",
     wendy_vasquez: "Wendy Vásquez y Familia",
     milagro_vasquez: "Milagro Vásquez y Familia",
     petrona_vasquez: "Petrona Vásquez y Familia",
