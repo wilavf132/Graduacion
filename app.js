@@ -17,10 +17,34 @@ const EVENTO = {
    ========================================== */
 
 const INVITADOS = {
-    andres: "Andres Vásquez y Familia",
-    maria: "María López",
-    juan: "Juan Pérez",
-    familia: "Familia Hernández"
+    william_flores: "William Flores y familia",
+    carmen_flores: "Carmen Flores y familia",
+    sofia_vasquez: "Sofía Vásquez y familia",
+    indrig_vasquez: "Indrig Vásquez y familia",
+    wendy_vasquez: "Wendy Vásquez y familia",
+    milagro_vasquez: "Milagro Vásquez y familia",
+    petrona_vasquez: "Petrona Vásquez y familia",
+    alexander_veliz: "Alexander Véliz y familia",
+    taciano_vasquez: "Taciano Vásquez y familia",
+    reina_vasquez: "Reina Vásquez y familia",
+    salomon_vasquez: "Salomón Vásquez y familia",
+    jaime_perez: "Jaime Pérez y familia",
+    angelina_veliz: "Angelina Véliz y familia",
+    alexander_martinez: "Alexander Martínez y familia",
+    genesis_diaz: "Génesis Díaz y familia",
+    gerardo_lopez: "Gerardo López y familia",
+    andres_vasquez: "Andrés Vásquez y familia",
+    jesse_miranda: "Jesse Miranda y familia",
+    angelica_perez: "Angélica Pérez y familia",
+    denis_carranza: "Denis Carranza y familia",
+    eva_perez: "Eva Pérez y familia",
+    miguel_henriquez: "Miguel Henríquez",
+    antonio_aranda: "Antonio Aranda",
+    ruben_mulato: "Rubén Mulato",
+    stephanny_ruiz: "Stephanny Ruiz y familia",
+    luis_barrero: "Luis Barrero y familia",
+    ernesto_lovo: "Ernesto Lovo y familia",
+    luis_flores: "Luis Flores"
 };
 
 
