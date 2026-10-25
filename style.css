@@ -789,13 +789,15 @@ body {
         transition: none;
     }
 }
+```css
 .nombre-graduado {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--texto);
-    margin-top: 5px;
-    margin-bottom: 10px;
     text-align: center;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
+    margin: 4px 0 12px;
+    line-height: 1.2;
 }
+```
