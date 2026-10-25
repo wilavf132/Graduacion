@@ -44,7 +44,9 @@ const INVITADOS = {
     stephanny_ruiz: "Stephanny Ruiz y Familia",
     luis_barrero: "Luis Barrero y Familia",
     ernesto_lovo: "Ernesto Lovo y Familia",
-    luis_flores: "Luis Flores y Familia"
+    luis_flores: "Luis Flores y Familia",
+   mario_flores: "Mario Flores y familia",
+cristian_flores: "Cristian Flores y familia"
 };
 
 
