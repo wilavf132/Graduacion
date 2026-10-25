@@ -18,7 +18,7 @@ const EVENTO = {
 
 const INVITADOS = {
     william_flores: "William Flores y familia",
-    carmen_flores: "Carmen Flores y familia",
+    carmen_flores: "Carmen Flores y Mirna Flores",
     sofia_vasquez: "Sofía Vásquez y familia",
     indrig_vasquez: "Indrig Vásquez y familia",
     wendy_vasquez: "Wendy Vásquez y familia",
